@@ -12,7 +12,7 @@
 
 import Foundation
 
-class NVHFile {
+public class NVHFile {
     let filePath: String
     var fileSize: UInt64
 

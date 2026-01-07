@@ -14,7 +14,7 @@ import Foundation
 
 let NVHProgressMaxTotalUnitCount: Int64 = 100
 
-class NVHProgress {
+public class NVHProgress {
     private var progress: Progress
     private var countFraction: Double = 0.0
 

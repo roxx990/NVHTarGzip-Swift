@@ -12,7 +12,7 @@
 
 import Foundation
 
-class NVHTarGzip {
+public class NVHTarGzip {
     static let shared = NVHTarGzip()
 
     private init() {}

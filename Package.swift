@@ -29,5 +29,5 @@ let package = Package(
             path: "Tests/NVHTarGzip_SwiftTests"
         )
     ],
-    swiftLanguageVersions: [.v5, .v6]
+    swiftLanguageVersions: [.v5]
 )

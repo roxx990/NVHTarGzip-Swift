@@ -24,7 +24,7 @@ enum NVHGzipFileErrorType: Int {
     case unknown = -999
 }
 
-class NVHGzipFile: NVHFile {
+public class NVHGzipFile: NVHFile {
 
     func inflate(toPath destinationPath: String) throws {
         setupProgress()

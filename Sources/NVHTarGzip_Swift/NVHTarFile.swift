@@ -12,7 +12,7 @@
 
 import Foundation
 
-class NVHTarFile: NVHFile {
+public class NVHTarFile: NVHFile {
     private var completedVirtualUnitCount: Int64 = 0
 
     // MARK: - Unpacking (untar)

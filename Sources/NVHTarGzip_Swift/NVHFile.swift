@@ -1,8 +1,12 @@
 //
 //  NVHFile.swift
-//  Quran Chat
+//  NVHTarGzip-Swift
 //
-//  Created by Macbook Pro on 07/01/2026.
+//  Created by roxx990 on 07/01/2026.
+//  Copyright © 2026 roxx990. All rights reserved.
+//
+//  A pure-Swift reimplementation of NVHTarGzip, supporting .tar, .gz, and .tar.gz archives
+//  with progress tracking on Apple platforms.
 //
 
 

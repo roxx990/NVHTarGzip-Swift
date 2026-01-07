@@ -32,7 +32,7 @@ This project is a modern reimplementation inspired by the original [NVHTarGzip](
 ## Supported Platforms
 
 - iOS 12.0+
-- macOS 10.15+
+- macOS 11+
 - tvOS 13.0+
 - watchOS 6.0+
 

@@ -7,7 +7,7 @@ let package = Package(
     name: "NVHTarGzip-Swift",
     platforms: [
         .iOS(.v12),
-        .macOS(.v10_15),
+        .macOS(.v11),
         .tvOS(.v13),
         .watchOS(.v6)
     ],

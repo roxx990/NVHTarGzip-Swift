@@ -1,3 +1,15 @@
+//
+//  NVHTarFile.swift
+//  NVHTarGzip-Swift
+//
+//  Created by roxx990 on 07/01/2026.
+//  Copyright © 2026 roxx990. All rights reserved.
+//
+//  A pure-Swift reimplementation of NVHTarGzip, supporting .tar, .gz, and .tar.gz archives
+//  with progress tracking on Apple platforms.
+//
+
+
 import Foundation
 
 class NVHTarFile: NVHFile {
